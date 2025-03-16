@@ -4,7 +4,7 @@
   "editor.tabSize": 4,
   "editor.formatOnSave": true,
   "[solidity]": {
-    "editor.defaultFormatter": "JuanBlanco.solidity" 
+    "editor.defaultFormatter": "JuanBlanco.solidity"
   },
   "solidity.packageDefaultDependenciesContractsDirectory": "src",
   "solidity.packageDefaultDependenciesDirectory": "lib",
