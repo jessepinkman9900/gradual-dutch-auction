@@ -134,3 +134,20 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Foundry
+# Compiler files
+cache/
+out/
+
+# Ignores development (and goerli) broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/*/5/
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
